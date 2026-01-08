@@ -1,0 +1,10 @@
+Tarea 1: Investigación y Representación de las Figuras en Diagramas de Flujo
+Objetivo General
+Comprender los elementos básicos que conforman un diagrama de flujo y aprender a representarlos correctamente, identificando su uso, significado y aplicación práctica en la resolución de problemas.
+
+¿Por qué es importante esta tarea?
+Los diagramas de flujo son una herramienta fundamental en programación porque permiten visualizar la lógica de un algoritmo antes de escribir código. Esta tarea les ayudará a:
+
+Desarrollar pensamiento lógico.
+Entender cómo se estructura un proceso.
+Prepararse para diseñar algoritmos más complejos.
